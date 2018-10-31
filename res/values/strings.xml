@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Higher &amp; Lower</string>
+    <string name="action_settings">Settings</string>
+    <string name="can_you_guess_it">Can you Guess it ??</string>
+    <string name="required_a_number_between_20_to_30">Required a Number Between 20 to 30</string>
+    <string name="button">Button</string>
+    <string name="enter_your_guess">Enter your guess</string>
+</resources>
